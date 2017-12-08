@@ -4,6 +4,6 @@
 [submodule "modules/web"]
 	path = modules/web
 	url = https://github.com/Ales-Kutek/hackathon-spsek-web
-[submodule "modules/point"]
-	path = modules/point
-	url = https://github.com/Ales-Kutek/hackathon-spsek-point.git
+[submodule "modules/arduino"]
+	path = modules/arduino
+	url = https://github.com/Ales-Kutek/hackathon-spsek-point
