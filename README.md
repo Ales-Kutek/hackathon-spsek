@@ -1,4 +1,4 @@
-COMMIT JSOU V SUBMODULECH
+COMMITY JSOU V SUBMODULECH
 ===========
 
 Jednotlivé submoduly najdete ve složce modules :))
