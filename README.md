@@ -1,4 +1,6 @@
-COMMIT JSOU V SUBMODULECH
+```diff
+- COMMIT JSOU V SUBMODULECH
 ===========
+```
 
 Jednotlivé submoduly najdete ve složce modules :))
