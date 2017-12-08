@@ -1,0 +1,6 @@
+[submodule "modules/mobile"]
+	path = modules/mobile
+	url = https://github.com/Ales-Kutek/hackathon-spsek-mobile
+[submodule "modules/web"]
+	path = modules/web
+	url = https://github.com/Ales-Kutek/hackathon-spsek-web
